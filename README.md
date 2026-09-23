@@ -100,17 +100,13 @@ user-friendly frontend experience.
 
 ## 📊 GitHub Stats
 
-These cards show activity from my GitHub account:
+<p align="center">
 
-![Zainab's GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=zainab-naeem-20&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github)
+⭐ Building projects  
+💻 Learning every day  
+🌱 Growing through code  
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainab-naeem-20&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB)
-
-![GitHub
-Streak](https://streak-stats.demolab.com?user=zainab-naeem-20&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF)
-
+</p>
 ------------------------------------------------------------------------
 
 ## 💜 GitHub Contributions
