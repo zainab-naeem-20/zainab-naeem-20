@@ -1,13 +1,12 @@
 # Hi! I am Zainab Naeem 👋
 
-### Software Engineering Student • Frontend Developer • UI/UX Designer
+### Software Engineering Student • Frontend Developer • UI/UX Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zainab%20Naeem-8A5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-naeem-1ab38a312/)
 [![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabnaeem405@gmail.com)
+![Profile
+Views](https://komarev.com/ghpvc/?username=zainab-naeem-20&label=PROFILE%20VIEWS&color=8A5CF6&style=for-the-badge)
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=zainab-naeem-20&label=PROFILE%20VIEWS&color=8A5CF6&style=for-the-badge)
 > **Learning with purpose • Building with creativity • Growing one
 > project at a time.** 🚀
 
@@ -61,6 +60,7 @@ CSS](https://skillicons.dev/icons?i=tailwind)
 </p>
 
 **VS Code** • **Figma** • **GitHub** • **Git** • **Dev-C++** • **UI/UX**
+
 ------------------------------------------------------------------------
 
 ## 🌟 Featured Projects
@@ -113,6 +113,16 @@ Streak](https://streak-stats.demolab.com?user=zainab-naeem-20&hide_border=true&b
 
 ------------------------------------------------------------------------
 
+## 💜 GitHub Contributions
+
+<p align="center">
+  <img src="./github-contribution-animation.svg"
+       alt="GitHub Contribution Animation"
+       width="900">
+</p>
+
+------------------------------------------------------------------------
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8A5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-naeem-1ab38a312/)
@@ -123,11 +133,3 @@ Streak](https://streak-stats.demolab.com?user=zainab-naeem-20&hide_border=true&b
 ### ✨ Keep Learning • Keep Building • Keep Growing ✨
 
 **Thanks for visiting my profile! 💜**
-------------------------------------------------------------------------
-## 💜 GitHub Contributions
-
-<p align="center">
-  <img src="./github-contribution-animation.svg"
-       alt="GitHub Contribution Animation"
-       width="900">
-</p>
