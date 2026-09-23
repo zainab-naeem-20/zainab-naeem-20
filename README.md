@@ -123,3 +123,11 @@ Streak](https://streak-stats.demolab.com?user=zainab-naeem-20&hide_border=true&b
 ### ✨ Keep Learning • Keep Building • Keep Growing ✨
 
 **Thanks for visiting my profile! 💜**
+------------------------------------------------------------------------
+## 💜 GitHub Contributions
+
+<p align="center">
+  <img src="./github-contribution-animation.svg"
+       alt="GitHub Contribution Animation"
+       width="900">
+</p>
