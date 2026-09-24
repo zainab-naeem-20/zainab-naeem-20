@@ -10,7 +10,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zainab%20Naeem-8A5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-naeem-1ab38a312/)
 [![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabnaeem405@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=zainab-naeem-20&label=PROFILE%20VIEWS&color=8A5CF6&style=for-the-badge)
+<p>
+  <img src="https://hits.sh/github.com/zainab-naeem-20.svg?label=Profile%20Views&color=ff69b4&logo=github" alt="Profile Views"/>
+</p>
 
 <br>
 
@@ -148,8 +150,9 @@ A responsive bakery website designed to showcase products with a modern, user-fr
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zainab-naeem-20&label=PROFILE%20VIEWS&color=8A5CF6&style=for-the-badge)
-
+<p>
+  <img src="https://hits.sh/github.com/zainab-naeem-20.svg?label=Profile%20Views&color=ff69b4&logo=github" alt="Profile Views"/>
+</p>
 ---
 
 ### ✨ **Keep Learning • Keep Building • Keep Growing** ✨
