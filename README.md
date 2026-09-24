@@ -1,6 +1,9 @@
 <div align="center">
 
-<h1><strong>💜 Zainab Naeem 👋</strong></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=E9D5FF&height=110&section=header&text=💜%20Zainab%20Naeem%20👋&fontSize=42&fontColor=5B21B6&fontAlignY=55" />
+</p>
+
 
 ### Software Engineering Student • Frontend Developer • UI/UX Enthusiast
 
