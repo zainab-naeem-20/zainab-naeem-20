@@ -73,33 +73,34 @@
 **VS Code** • **Figma** • **GitHub** • **Git** • **Dev-C++** • **UI/UX**
 
 ---
+<h2 align="center">🌟 Featured Projects</h2>
 
-## 🌟 Featured Projects
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 📝 To-Do List
-
-**HTML • CSS • JavaScript**
-
-A simple and interactive To-Do List web application focused on clean UI and practical task management.
-
-</td>
-
-<td align="center" width="50%">
-
-### 🧁 Crust & Crumbs Bakery
-
-**HTML • CSS • JavaScript**
-
-A responsive bakery website designed to showcase products with a modern, user-friendly frontend experience.
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📝 To-Do List</h3>
+      <p><b>HTML • CSS • JavaScript</b></p>
+      <p>A simple and interactive To-Do List web application focused on clean UI and practical task management.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🧁 Crust & Crumbs Bakery</h3>
+      <p><b>HTML • CSS • JavaScript</b></p>
+      <p>A responsive bakery website designed to showcase products with a modern, user-friendly frontend experience.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧮 Simple Calculator</h3>
+      <p><b>HTML • CSS • JavaScript</b></p>
+      <p>A clean, interactive, and fast web calculator designed to perform daily arithmetic calculations with a modern UI.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 Coming Soon</h3>
+      <p><b>Tech Stack</b></p>
+      <p>Project description will go here once the 4th repository is ready.</p>
+    </td>
+  </tr>
 </table>
-
 ---
 
 ## 🎓 Education
@@ -125,11 +126,10 @@ A responsive bakery website designed to showcase products with a modern, user-fr
 ---
 
 ## 📊 GitHub Stats
-
-⭐ **Building projects**  
-💻 **Learning every day**  
-🌱 **Growing through code**
-
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=zainab-naeem-20&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zainab-naeem-20&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 ---
 
 ## 💜 GitHub Contributions
