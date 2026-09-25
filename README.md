@@ -133,6 +133,7 @@
   <img src="https://raw.githubusercontent.com/zainab-naeem-20/zainab-naeem-20/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 ---
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8A5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-naeem-1ab38a312/)
