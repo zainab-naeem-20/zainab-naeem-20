@@ -147,7 +147,7 @@
 **Thanks for visiting my profile! 💜**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=130&section=footer" width="100%" />
 </p>
 
 </div>
