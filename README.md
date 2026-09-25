@@ -128,6 +128,10 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zainab-naeem-20&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
+<!-- Contribution Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zainab-naeem-20/zainab-naeem-20/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 ---
 ## 📫 Let's Connect
 
