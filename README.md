@@ -12,7 +12,7 @@
   </a>
 </p>
 <br>
-> **Learning with purpose • Building with creativity • Growing one project at a time.** 🚀
+ **Learning with purpose • Building with creativity • Growing one project at a time.** 🚀
 
 ---
 
