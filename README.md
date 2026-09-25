@@ -1,21 +1,17 @@
 <div align="center">
 
+<!-- Purple Wave Banner with Your Name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=E9D5FF&height=110&section=header&text=💜%20Zainab%20Naeem%20👋&fontSize=42&fontColor=5B21B6&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=135&section=header&text=💜%20Zainab%20Naeem%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=40" width="100%" />
 </p>
 
-
-### Software Engineering Student • Frontend Developer • UI/UX Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zainab%20Naeem-8A5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-naeem-1ab38a312/)
-[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabnaeem405@gmail.com)
-
-<p>
-  <img src="https://hits.sh/github.com/zainab-naeem-20.svg?label=Profile%20Views&color=ff69b4&logo=github" alt="Profile Views"/>
+<!-- Stylish Cursive Animated Typing Header -->
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=34&pause=1000&color=8A5CF6&center=true&vcenter=true&width=750&lines=Software+Engineering+Student;Frontend+Developer;UI%2FUX+Enthusiast;Building+with+Creativity" alt="Typing SVG" />
+  </a>
 </p>
-
 <br>
-
 > **Learning with purpose • Building with creativity • Growing one project at a time.** 🚀
 
 ---
@@ -73,6 +69,7 @@
 **VS Code** • **Figma** • **GitHub** • **Git** • **Dev-C++** • **UI/UX**
 
 ---
+
 <h2 align="center">🌟 Featured Projects</h2>
 
 <table align="center" width="100%">
@@ -101,6 +98,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🎓 Education
@@ -115,8 +113,6 @@
 
 💻 Working alongside my studies
 
-🎓 BS Software Engineering student
-
 🌐 Improving my frontend development skills
 
 🎨 Exploring UI/UX and better web experiences
@@ -125,33 +121,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Streaks
+
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=zainab-naeem-20&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zainab-naeem-20&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
----
-
-## 💜 GitHub Contributions
-
-<p align="center">
-  <img src="./github-contribution-animation.svg"
-       alt="GitHub Contribution Animation"
-       width="900">
-</p>
 
 ---
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8A5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-naeem-1ab38a312/)
-
+</br>
 [![Email](https://img.shields.io/badge/Gmail-zainabnaeem405%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabnaeem405@gmail.com)
-
-<br>
-
+</br>
 <p>
+
   <img src="https://hits.sh/github.com/zainab-naeem-20.svg?label=Profile%20Views&color=ff69b4&logo=github" alt="Profile Views"/>
+
 </p>
 ---
 
@@ -159,4 +146,10 @@
 
 **Thanks for visiting my profile! 💜**
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=100&section=footer" width="100%" />
+</p>
+
 </div>
+
+---
