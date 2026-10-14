@@ -31,6 +31,8 @@
 
 ---
 
+
+
 ## 🚀 About Me
 
 🎓 **BS Software Engineering Student:** Currently in my 3rd semester at **Virtual University** 🏛️
@@ -113,6 +115,35 @@
 
 <p align="center">
   <i>💜 Learn • Build • Create • Improve 💜</i>
+</p>
+
+---
+
+## 🌱 Currently Learning — MERN Stack
+
+<p align="center">
+  <i>🚀 Expanding my JavaScript skills into full-stack web development</i>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="MERN Stack Technologies"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-Learning-FFFFFF?style=for-the-badge&logo=express&logoColor=black" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-Learning-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mongoose-ODM-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+  <img src="https://img.shields.io/badge/REST_APIs-Learning-8A5CF6?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
+
+<p align="center">
+  💜 <b>Learn • Build • Practice • Grow</b>
 </p>
 
 ---
