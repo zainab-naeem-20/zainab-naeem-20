@@ -45,43 +45,75 @@
 
 ---
 
-## 💻 Skills & Technologies
+## 💜 Skills & Technologies
+
+<p align="center">
+  <i>⚡ My Tech Stack • Tools • Creative Skills ⚡</i>
+</p>
 
 ### 🌐 Frontend Development
 
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-
-<br>
-
-### 💡 Programming & Database
-
-![C++](https://skillicons.dev/icons?i=cpp)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
-
-### 🎨 UI/UX & Version Control
-
-![Figma](https://skillicons.dev/icons?i=figma)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-
----
-
-## 🧰 Tools I Use
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code">
-  <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma">
-  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub">
-  <img src="https://img.shields.io/badge/Dev--C%2B%2B-IDE-8A5CF6?style=for-the-badge&logo=cplusplus&logoColor=white" height="35" alt="Dev-C++">
-  <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" height="48" alt="Frontend Skills"/>
 </p>
 
-**VS Code** • **Figma** • **GitHub** • **Git** • **Dev-C++** • **UI/UX**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-Responsive_Design-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### 💻 Programming & Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,mysql" height="48" alt="Programming and Database"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-Programming-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
+
+### 🎨 UI/UX & Design
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="48" alt="Figma"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%2FUX-Design_Thinking-8A5CF6?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design"/>
+  <img src="https://img.shields.io/badge/Figma-Wireframes_%26_Prototypes-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Design"/>
+  <img src="https://img.shields.io/badge/Responsive-Layouts-9333EA?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Layouts"/>
+</p>
+
+### 🔧 Version Control & Collaboration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" height="48" alt="Git and GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Commits-Consistent-8A5CF6?style=for-the-badge&logo=git&logoColor=white" alt="Git Commits"/>
+</p>
+
+### 🧰 Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" height="42" alt="Development Tools"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-Code_Editor-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Dev--C%2B%2B-C%2B%2B_IDE-8A5CF6?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Dev-C++"/>
+  <img src="https://img.shields.io/badge/Developer-Learning-BA68C8?style=for-the-badge&logo=github&logoColor=white" alt="Developer Learning"/>
+</p>
+
+<p align="center">
+  <i>💜 Learn • Build • Create • Improve 💜</i>
+</p>
 
 ---
 
