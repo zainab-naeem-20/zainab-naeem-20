@@ -70,34 +70,17 @@
 
 ---
 
-<h2 align="center">🌟 Featured Projects</h2>
+<h2 align="center">💜 🎮 My GitRoll Developer Profile 🎮 💜</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h3>📝 To-Do List</h3>
-      <p><b>HTML • CSS • JavaScript</b></p>
-      <p>A simple and interactive To-Do List web application focused on clean UI and practical task management.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🧁 Crust & Crumbs Bakery</h3>
-      <p><b>HTML • CSS • JavaScript</b></p>
-      <p>A responsive bakery website designed to showcase products with a modern, user-friendly frontend experience.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🧮 Simple Calculator</h3>
-      <p><b>HTML • CSS • JavaScript</b></p>
-      <p>A clean, interactive, and fast web calculator designed to perform daily arithmetic calculations with a modern UI.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🚀 Coming Soon</h3>
-      <p><b>Tech Stack</b></p>
-      <p>Project description will go here once the 4th repository is ready.</p>
-    </td>
-  </tr>
-</table>
+<p align="center"> <i>✨ A Little Peek Into My Coding Journey ✨</i> </p>
+
+<p align="center"> Hey there! 👋 I'm passionate about coding, exploring new technologies, and growing as a developer. 🚀 <br/> Every line of code is a new opportunity to learn, create, and improve. 💻🌸 </p>
+
+<p align="center"> 🎯 <b>Learning</b> • 💻 <b>Coding</b> • 🚀 <b>Growing</b> </p>
+
+<p align="center"> <a href="https://gitroll.io/profile/uBsQNE0Iyz8gVvuw5vukIgpuSTSY2" target="_blank"> <img src="https://gitroll.io/api/badges/profiles/v1/uBsQNE0Iyz8gVvuw5vukIgpuSTSY2?theme=retro" alt="GitRoll Profile Badge" width="65%"/> </a> </p>
+
+<p align="center"> 🌷 <i>Every commit tells a story, and every project brings me one step closer to my goals!</i> 💜 </p>
 
 ---
 
