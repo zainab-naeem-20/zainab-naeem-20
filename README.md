@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A5CF6&height=135&section=header&text=💜%20Zainab%20Naeem%20👋&fontSize=42&fontColor=FFFFFF&fontAlignY=40" width="100%" />
 </p>
-
 <!-- Stylish Cursive Animated Typing Header -->
 <p align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
@@ -13,6 +12,22 @@
 </p>
 <br>
  **Learning with purpose • Building with creativity • Growing one project at a time.** 🚀
+
+---
+
+<!-- 💜 GitRoll Developer Profile Shifted To Top For Better Visibility 💜 -->
+
+<h2 align="center">💜 🎮 My GitRoll Developer Profile 🎮 💜</h2>
+
+<p align="center"> <i>✨ A Little Peek Into My Coding Journey ✨</i> </p>
+
+<p align="center"> Hey there! 👋 I'm passionate about coding, exploring new technologies, and growing as a developer. 🚀 <br/> Every line of code is a new opportunity to learn, create, and improve. 💻🌸 </p>
+
+<p align="center"> 🎯 <b>Learning</b> • 💻 <b>Coding</b> • 🚀 <b>Growing</b> </p>
+
+<p align="center"> <a href="https://gitroll.io/profile/uBsQNE0Iyz8gVvuw5vukIgpuSTSY2" target="_blank"> <img src="https://gitroll.io/api/badges/profiles/v1/uBsQNE0Iyz8gVvuw5vukIgpuSTSY2?theme=retro" alt="GitRoll Profile Badge" width="65%"/> </a> </p>
+
+<p align="center"> 🌷 <i>Every commit tells a story, and every project brings me one step closer to my goals!</i> 💜 </p>
 
 ---
 
@@ -67,20 +82,6 @@
 </p>
 
 **VS Code** • **Figma** • **GitHub** • **Git** • **Dev-C++** • **UI/UX**
-
----
-
-<h2 align="center">💜 🎮 My GitRoll Developer Profile 🎮 💜</h2>
-
-<p align="center"> <i>✨ A Little Peek Into My Coding Journey ✨</i> </p>
-
-<p align="center"> Hey there! 👋 I'm passionate about coding, exploring new technologies, and growing as a developer. 🚀 <br/> Every line of code is a new opportunity to learn, create, and improve. 💻🌸 </p>
-
-<p align="center"> 🎯 <b>Learning</b> • 💻 <b>Coding</b> • 🚀 <b>Growing</b> </p>
-
-<p align="center"> <a href="https://gitroll.io/profile/uBsQNE0Iyz8gVvuw5vukIgpuSTSY2" target="_blank"> <img src="https://gitroll.io/api/badges/profiles/v1/uBsQNE0Iyz8gVvuw5vukIgpuSTSY2?theme=retro" alt="GitRoll Profile Badge" width="65%"/> </a> </p>
-
-<p align="center"> 🌷 <i>Every commit tells a story, and every project brings me one step closer to my goals!</i> 💜 </p>
 
 ---
 
@@ -139,5 +140,3 @@
 </p>
 
 </div>
-
----
