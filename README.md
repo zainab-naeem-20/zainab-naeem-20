@@ -1,23 +1,22 @@
  <div align="center">
 
-<!-- 🌸 DEEP MAUVE HEADER -->
+<!-- DEEP MAUVE HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=493A55&height=145&section=header&text=♡%20Zainab%20Naeem%20👋&fontSize=40&fontColor=FFFFFF&fontAlignY=40" width="100%" alt="Zainab Naeem"/>
 </p>
 
-<!-- ✨ TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=29&pause=1000&color=A58BAF&center=true&vcenter=true&width=750&lines=Software+Engineering+Student;Frontend+Developer;UI%2FUX+Enthusiast;Building+with+Creativity" alt="Typing Animation"/>
 </p>
 
 <p align="center">
-  <b>Learning with purpose • Building with creativity • Growing one project at a time. 🚀</b>
+  <b>Learning with purpose · Building with creativity · Growing one project at a time. 💜</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FRONTEND-DEVELOPER-82717F?style=for-the-badge&logo=codefactor&logoColor=white" alt="Frontend Developer"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-ENTHUSIAST-A58BAF?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX"/>
-  <img src="https://img.shields.io/badge/ALWAYS-LEARNING-493A55?style=for-the-badge&logo=github&logoColor=white" alt="Always Learning"/>
+  <img src="https://img.shields.io/badge/Frontend%20Developer-493A55?style=flat&logo=codefactor&logoColor=E4DDE8" alt="Frontend Developer"/>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Enthusiast-82717F?style=flat&logo=figma&logoColor=F4C2E8" alt="UI/UX Enthusiast"/>
+  <img src="https://img.shields.io/badge/Always%20Learning-493A55?style=flat&logo=github&logoColor=E4DDE8" alt="Always Learning"/>
 </p>
 
 </div>
@@ -28,17 +27,16 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=A58BAF&height=3&section=header" width="85%" alt="Lavender Divider"/>
 </p>
 
-<h2 align="center">💜 🎮 My GitRoll Developer Profile 🎮 💜</h2>
+## 💜 My GitRoll Developer Profile
 
 <p align="center"><i>✨ A Little Peek Into My Coding Journey ✨</i></p>
 
 <p align="center">
-  Hey there! 👋 I'm passionate about coding, exploring new technologies, and growing as a developer. 🚀
-  <br/>
+  Hey there! 👋 I'm passionate about coding, exploring new technologies, and growing as a developer. 🚀<br/>
   Every line of code is an opportunity to learn, create, and improve. 💻🌸
 </p>
 
-<p align="center">🎯 <b>Learning</b> • 💻 <b>Coding</b> • 🚀 <b>Growing</b></p>
+<p align="center">🎯 <b>Learning</b> · 💻 <b>Coding</b> · 🚀 <b>Growing</b></p>
 
 <p align="center">
   <a href="https://gitroll.io/profile/uBsQNE0Iyz8gVvuw5vukIgpuSTSY2">
@@ -58,9 +56,9 @@
 
 - 🎓 **BS Software Engineering Student:** Currently in my 3rd semester at **Virtual University (VU)**.
 - 💼 **Working Professional:** Balancing real-world work experience alongside my academic journey.
-- 🌐 **Frontend Developer:** Building responsive web applications using HTML, CSS, JavaScript and Tailwind CSS.
+- 🌐 **Frontend Developer:** Building responsive web applications using HTML, CSS, JavaScript, and Tailwind CSS.
 - 🎨 **UI/UX Enthusiast:** Exploring clean, user-friendly layouts and design concepts with Figma.
-- 🛠️ **Problem Solver:** Working with C++, SQL and Git/GitHub.
+- 🛠️ **Problem Solver:** Working with C++, SQL, and Git/GitHub.
 - 🌱 **Currently Exploring:** Expanding my JavaScript knowledge towards full-stack development with the MERN stack.
 
 <p align="center">
@@ -70,20 +68,20 @@
 ## 💻 Skills & Technologies
 
 <p align="center">
-  <i>⚡ Technologies I use to design, develop and build projects ⚡</i>
+  <i>⚡ Technologies I use to design, develop, and build projects ⚡</i>
 </p>
 
 ### 🌐 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="HTML CSS JavaScript Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="HTML, CSS, JavaScript, Tailwind CSS"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-MARKUP-493A55?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-STYLING-A58BAF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-PROGRAMMING-82717F?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-UTILITY_FIRST-493A55?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/HTML5-493A55?style=flat&logo=html5&logoColor=F4C2E8" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-493A55?style=flat&logo=css3&logoColor=C9B6FF" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-82717F?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-493A55?style=flat&logo=tailwindcss&logoColor=8EDCF5" alt="Tailwind CSS"/>
 </p>
 
 <p align="center">
@@ -97,8 +95,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-PROGRAMMING-493A55?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-DATABASE-82717F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-493A55?style=flat&logo=cplusplus&logoColor=E4DDE8" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-82717F?style=flat&logo=mysql&logoColor=FFFFFF" alt="SQL"/>
 </p>
 
 <p align="center">
@@ -108,13 +106,13 @@
 ### 🎨 UI/UX & Version Control
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github" alt="Figma Git GitHub"/>
+  <img src="https://skillicons.dev/icons?i=figma,git,github" alt="Figma, Git, GitHub"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-UI%2FUX_DESIGN-82717F?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Git-VERSION_CONTROL-493A55?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-CODE_HOSTING-A58BAF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Figma-82717F?style=flat&logo=figma&logoColor=F4C2E8" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Git-493A55?style=flat&logo=git&logoColor=F4C2E8" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-493A55?style=flat&logo=github&logoColor=E4DDE8" alt="GitHub"/>
 </p>
 
 <p align="center">
@@ -128,25 +126,23 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="MERN Stack"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="React, Node.js, Express, MongoDB"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-FRONTEND-82717F?style=for-the-badge&logo=react&logoColor=white" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Node.js-RUNTIME-493A55?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-BACKEND-A58BAF?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-DATABASE-82717F?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/React.js-493A55?style=flat&logo=react&logoColor=8EDCF5" alt="React.js"/>
+  <img src="https://img.shields.io/badge/Node.js-493A55?style=flat&logo=nodedotjs&logoColor=9FE3A0" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-82717F?style=flat&logo=express&logoColor=FFFFFF" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-493A55?style=flat&logo=mongodb&logoColor=9FE3A0" alt="MongoDB"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mongoose-ODM-493A55?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
-  <img src="https://img.shields.io/badge/REST_API-API_DEVELOPMENT-A58BAF?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Postman-API_TESTING-82717F?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Mongoose-493A55?style=flat&logo=mongoose&logoColor=E4DDE8" alt="Mongoose"/>
+  <img src="https://img.shields.io/badge/REST%20API-82717F?style=flat&logo=fastapi&logoColor=FFFFFF" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Postman-493A55?style=flat&logo=postman&logoColor=FF9B70" alt="Postman"/>
 </p>
 
-<p align="center">
-  💜 <b>Learn • Build • Practice • Grow</b>
-</p>
+<p align="center">💜 <b>Learn · Build · Practice · Grow</b></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=82717F&height=3&section=header" width="85%" alt="Smoky Mauve Divider"/>
@@ -155,12 +151,18 @@
 ## 🧰 Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,github,git" alt="VS Code Figma GitHub Git"/>
-  <img src="https://img.shields.io/badge/Dev--C%2B%2B-IDE-493A55?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Dev-C++"/>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,github,git" alt="VS Code, Figma, GitHub, Git"/>
 </p>
 
 <p align="center">
-  <b>VS Code</b> • <b>Figma</b> • <b>GitHub</b> • <b>Git</b> • <b>Dev-C++</b>
+  <b>VS Code</b> · <b>Figma</b> · <b>GitHub</b> · <b>Git</b> · <b>Dev-C++</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-82717F?style=flat&logo=figma&logoColor=F4C2E8" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Git-493A55?style=flat&logo=git&logoColor=F4C2E8" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-493A55?style=flat&logo=github&logoColor=E4DDE8" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Dev--C%2B%2B-493A55?style=flat&logo=cplusplus&logoColor=E4DDE8" alt="Dev-C++"/>
 </p>
 
 <p align="center">
@@ -170,12 +172,12 @@
 ## 🎓 Education
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Virtual_University-BS_Software_Engineering-493A55?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Virtual University"/>
+  <img src="https://img.shields.io/badge/Virtual%20University-493A55?style=flat&logo=google-scholar&logoColor=E4DDE8" alt="Virtual University"/>
+  <img src="https://img.shields.io/badge/BS%20Software%20Engineering-82717F?style=flat&logo=book-open&logoColor=FFFFFF" alt="BS Software Engineering"/>
 </p>
 
 <p align="center">
-  <b>BS Software Engineering</b>
-  <br/>
+  <b>BS Software Engineering</b><br/>
   3rd Semester 🏛️
 </p>
 
@@ -202,7 +204,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zainab-naeem-20&layout=compact&theme=dark&hide_border=true&title_color=A58BAF&text_color=E4DDE8&bg_color=17131B" alt="Top Languages" width="48%"/>
 </p>
 
-<!-- 🐍 CONTRIBUTION SNAKE -->
+<!-- CONTRIBUTION SNAKE -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/zainab-naeem-20/zainab-naeem-20/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
@@ -215,10 +217,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zainab-naeem-1ab38a312/">
-    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-493A55?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-493A55?style=flat&logo=linkedin&logoColor=E4DDE8" alt="LinkedIn"/>
   </a>
   <a href="mailto:zainabnaeem405@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-CONTACT_ME-82717F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-82717F?style=flat&logo=gmail&logoColor=FFFFFF" alt="Email"/>
   </a>
 </p>
 
@@ -230,7 +232,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=A58BAF&height=3&section=header" width="85%" alt="Lavender Divider"/>
 </p>
 
-<h3 align="center">✨ Keep Learning • Keep Building • Keep Growing ✨</h3>
+<h3 align="center">✨ Keep Learning · Keep Building · Keep Growing ✨</h3>
 
 <p align="center">
   <b>Thanks for visiting my profile! 💜</b>
