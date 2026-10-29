@@ -58,9 +58,11 @@ I'm learning how frontend interfaces communicate with backend services through A
 
 ### 🌐 Frontend Development
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="HTML CSS JavaScript Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="HTML CSS JavaScript Tailwind CSS Bootstrap"/>
 </p>
+
 
 ### 💡 Programming & Database
 
@@ -121,14 +123,14 @@ My focus is on strengthening my fundamentals through consistent learning, practi
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=zainab-naeem-20&show_icons=true&hide_border=true&title_color=C99AAF&icon_color=C99AAF&text_color=F2E7EC&bg_color=241A29"
-    alt="Zainab's GitHub Stats"
-    width="48%"
+    src="https://github-stats-extended.vercel.app/api?username=zainab-naeem-20&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Stats"
+    width="38%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab-naeem-20&layout=compact&hide_border=true&title_color=C99AAF&text_color=F2E7EC&bg_color=241A29"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=zainab-naeem-20&layout=compact&theme=dark&hide_border=true"
     alt="Most Used Languages"
-    width="48%"
+    width="38%"
   />
 </p>
 
@@ -136,7 +138,7 @@ My focus is on strengthening my fundamentals through consistent learning, practi
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=zainab-naeem-20&hide_border=true&background=241A29&ring=C99AAF&fire=E8C8D5&currStreakLabel=E8C8D5&sideLabels=F2E7EC&dates=C7B8C2&sideNums=F2E7EC&currStreakNum=F2E7EC"
     alt="GitHub Contribution Streak"
-    width="70%"
+    width="50%"
   />
 </p>
 
