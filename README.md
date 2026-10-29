@@ -164,6 +164,10 @@ My focus is on strengthening my fundamentals through consistent learning, practi
 </p>
 
 <p align="center">
+<img src="https://hits.sh/github.com/zainab-naeem-20.svg?label=Profile%20Views&color=171020&logo=github" alt="Profile Views"/>
+</p>
+
+<p align="center">
   Feel free to reach out for collaboration, ideas, or a friendly tech discussion.
 </p>
 
