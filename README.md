@@ -1,90 +1,65 @@
- <div align="center">
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171020,50:8B5CF6,100:D6B3FF&height=160&section=header&text=♡%20Zainab%20Naeem%20👋&fontSize=40&fontColor=FFFFFF&fontAlignY=40" width="100%" alt="Zainab Naeem"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:241A29,45:8B647A,75:C99AAF,100:E8C8D5&height=170&section=header&text=Zainab%20Naeem&fontSize=38&fontColor=FFF7FA&fontAlignY=38" width="100%" alt="Zainab Naeem"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=27&pause=1000&color=D6B3FF&center=true&vcenter=true&width=750&lines=Software+Engineering+Student;Frontend+Developer;UI%2FUX+Enthusiast;Building+with+Creativity" alt="Typing Animation"/>
-</p>
+### Software Engineering Student · Frontend Developer
 
-<p align="center">
-  <b>Learning with purpose · Building with creativity · Growing one project at a time. 💜</b>
-</p>
+*Learning with purpose. Building with creativity. Growing one project at a time.* 💜
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Developer-171020?style=flat&logo=codefactor&logoColor=D6B3FF" alt="Frontend Developer"/>
-  <img src="https://img.shields.io/badge/UI%2FUX%20Enthusiast-171020?style=flat&logo=figma&logoColor=F0E5FF" alt="UI/UX Enthusiast"/>
-  <img src="https://img.shields.io/badge/Always%20Learning-171020?style=flat&logo=github&logoColor=D6B3FF" alt="Always Learning"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3A2938?style=flat-square&logo=linkedin&logoColor=E8C8D5)](https://www.linkedin.com/in/zainab-naeem-1ab38a312/)
+[![Email](https://img.shields.io/badge/Email-3A2938?style=flat-square&logo=gmail&logoColor=E8C8D5)](mailto:zainabnaeem405@gmail.com)
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6B3FF&height=3&section=header" width="85%" alt="Lavender Divider"/>
-</p>
+## 🌷 About Me
 
-## 💜 My GitRoll Developer Profile
+- 🎓 BS Software Engineering student at Virtual University (VU), currently in my 3rd semester.
+- 💼 Balancing work alongside my academic journey.
+- 🌐 Building responsive interfaces with HTML, CSS, JavaScript, and Tailwind CSS.
+- 🎨 Exploring UI/UX design and user-friendly experiences with Figma.
+- 🛠️ Practicing problem-solving with C++, SQL, and Git/GitHub.
+- 🌱 Expanding my JavaScript knowledge and learning the MERN stack.
 
-<p align="center"><i>✨ A Little Peek Into My Coding Journey ✨</i></p>
+---
 
-<p align="center">
-  Hey there! 👋 I'm passionate about coding, exploring new technologies, and growing as a developer. 🚀<br/>
-  Every line of code is an opportunity to learn, create, and improve. 💻🌸
-</p>
+## 💌 A Note From the Developer
 
-<p align="center">🎯 <b>Learning</b> · 💻 <b>Coding</b> · 🚀 <b>Growing</b></p>
+> Every line of code is a chance to turn an idea into something meaningful.
+>
+> I'm not just learning to build software; I'm learning to build with purpose, creativity, and curiosity.
 
-<p align="center">
-  <a href="https://gitroll.io/profile/uBsQNE0Iyz8gVvuw5vukIgpuSTSY2">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uBsQNE0Iyz8gVvuw5vukIgpuSTSY2?theme=retro" alt="GitRoll Developer Profile" width="65%"/>
-  </a>
-</p>
+<p align="right"><i>— Zainab Naeem 💜</i></p>
 
-<p align="center">
-  🌷 <i>Every commit tells a story, and every project brings me one step closer to my goals!</i> 💜
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6B3FF&height=3&section=header" width="85%" alt="Lavender Divider"/>
-</p>
+## 🧠 How I Approach Development
 
-## 🚀 About Me
+### 🎨 Designing for People
 
-- 🎓 **BS Software Engineering Student:** Currently in my 3rd semester at **Virtual University (VU)**.
-- 💼 **Working Professional:** Balancing work alongside my academic journey.
-- 🌐 **Frontend Developer:** Building responsive web applications using HTML, CSS, JavaScript, and Tailwind CSS.
-- 🎨 **UI/UX Enthusiast:** Exploring clean, user-friendly layouts and design concepts with Figma.
-- 🛠️ **Problem Solver:** Working with C++, SQL, and Git/GitHub.
-- 🌱 **Currently Exploring:** Expanding my JavaScript knowledge towards full-stack development with the MERN stack.
+I believe a good user interface is more than visual appeal. Accessibility, responsiveness, usability, and consistency all contribute to a better user experience. My goal is to create interfaces that feel intuitive and look clean.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6B3FF&height=3&section=header" width="85%" alt="Lavender Divider"/>
-</p>
+### 💻 Writing Better Code
 
-## 💻 Skills & Technologies
+Programming is not only about making a solution work. Readable code, meaningful naming, reusable components, and logical structure make projects easier to maintain, debug, and improve.
 
-<p align="center">
-  <i>⚡ Technologies I use to design, develop, and build projects ⚡</i>
-</p>
+### 🌐 Understanding the Web
+
+HTML provides structure, CSS controls presentation, and JavaScript adds interactivity. Together, these technologies form the foundation of the frontend experiences I'm learning to build.
+
+### 🚀 Exploring Full-Stack Development
+
+I'm learning how frontend interfaces communicate with backend services through APIs, how server-side logic processes requests, and how databases store application data. Understanding these connections is an important step in my MERN stack journey.
+
+---
+
+## 💻 Tech Stack
 
 ### 🌐 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="HTML, CSS, JavaScript, Tailwind CSS"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-171020?style=flat&logo=html5&logoColor=F0E5FF" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-171020?style=flat&logo=css3&logoColor=D6B3FF" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-171020?style=flat&logo=javascript&logoColor=F0E5FF" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-171020?style=flat&logo=tailwindcss&logoColor=D6B3FF" alt="Tailwind CSS"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6B3FF&height=3&section=header" width="65%" alt="Lavender Divider"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" alt="HTML CSS JavaScript Tailwind CSS"/>
 </p>
 
 ### 💡 Programming & Database
@@ -93,150 +68,109 @@
   <img src="https://skillicons.dev/icons?i=cpp,mysql" alt="C++ and MySQL"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-171020?style=flat&logo=cplusplus&logoColor=D6B3FF" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-171020?style=flat&logo=mysql&logoColor=F0E5FF" alt="SQL"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6B3FF&height=3&section=header" width="65%" alt="Lavender Divider"/>
-</p>
-
 ### 🎨 UI/UX & Version Control
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github" alt="Figma, Git, GitHub"/>
+  <img src="https://skillicons.dev/icons?i=figma,git,github" alt="Figma Git GitHub"/>
+</p>
+
+### 🧰 Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman" alt="VS Code and Postman"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-171020?style=flat&logo=figma&logoColor=D6B3FF" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Git-171020?style=flat&logo=git&logoColor=F0E5FF" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-171020?style=flat&logo=github&logoColor=D6B3FF" alt="GitHub"/>
+  <sub>Also used: Dev-C++</sub>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6B3FF&height=3&section=header" width="85%" alt="Lavender Divider"/>
-</p>
+---
 
 ## 🌱 Currently Learning — MERN Stack
 
 <p align="center">
-  <i>🚀 Expanding my JavaScript skills towards full-stack web development</i>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="React Node.js Express MongoDB"/>
+</p>
+
+I'm exploring how these technologies work together:
+
+- **React:** Building interactive and reusable user interface components.
+- **Node.js:** Understanding JavaScript runtime capabilities outside the browser.
+- **Express.js:** Learning to build backend routes and API endpoints.
+- **MongoDB:** Exploring document-based data storage and database operations.
+
+My focus is on strengthening my fundamentals through consistent learning, practice, and projects.
+
+---
+
+## ✨ GitRoll Developer Profile
+
+<p align="center">
+  <a href="https://gitroll.io/profile/uBsQNE0Iyz8gVvuw5vukIgpuSTSY2">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uBsQNE0Iyz8gVvuw5vukIgpuSTSY2?theme=retro" alt="GitRoll Developer Profile" width="52%"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" alt="React, Node.js, Express, MongoDB"/>
+  <sub>A little snapshot of my ongoing developer journey.</sub>
+</p>
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=zainab-naeem-20&show_icons=true&hide_border=true&title_color=C99AAF&icon_color=C99AAF&text_color=F2E7EC&bg_color=241A29"
+    alt="Zainab's GitHub Stats"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab-naeem-20&layout=compact&hide_border=true&title_color=C99AAF&text_color=F2E7EC&bg_color=241A29"
+    alt="Most Used Languages"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-171020?style=flat&logo=react&logoColor=D6B3FF" alt="React.js"/>
-  <img src="https://img.shields.io/badge/Node.js-171020?style=flat&logo=nodedotjs&logoColor=F0E5FF" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-171020?style=flat&logo=express&logoColor=D6B3FF" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-171020?style=flat&logo=mongodb&logoColor=F0E5FF" alt="MongoDB"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=zainab-naeem-20&hide_border=true&background=241A29&ring=C99AAF&fire=E8C8D5&currStreakLabel=E8C8D5&sideLabels=F2E7EC&dates=C7B8C2&sideNums=F2E7EC&currStreakNum=F2E7EC"
+    alt="GitHub Contribution Streak"
+    width="70%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mongoose-171020?style=flat&logo=mongoose&logoColor=D6B3FF" alt="Mongoose"/>
-  <img src="https://img.shields.io/badge/REST%20API-171020?style=flat&logo=fastapi&logoColor=F0E5FF" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Postman-171020?style=flat&logo=postman&logoColor=D6B3FF" alt="Postman"/>
+  <img
+    src="https://raw.githubusercontent.com/zainab-naeem-20/zainab-naeem-20/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
-
-<p align="center">💜 <b>Learn · Build · Practice · Grow</b></p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6B3FF&height=3&section=header" width="85%" alt="Lavender Divider"/>
-</p>
-
-## 🧰 Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,github,git" alt="VS Code, Figma, GitHub, Git"/>
-</p>
-
-<p align="center">
-  <b>VS Code</b> · <b>Figma</b> · <b>GitHub</b> · <b>Git</b> · <b>Dev-C++</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-171020?style=flat&logo=figma&logoColor=D6B3FF" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Git-171020?style=flat&logo=git&logoColor=F0E5FF" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-171020?style=flat&logo=github&logoColor=D6B3FF" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Dev--C%2B%2B-171020?style=flat&logo=cplusplus&logoColor=F0E5FF" alt="Dev-C++"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6B3FF&height=3&section=header" width="85%" alt="Lavender Divider"/>
-</p>
-
-## 🎓 Education
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Virtual%20University-171020?style=flat&logo=google-scholar&logoColor=D6B3FF" alt="Virtual University"/>
-  <img src="https://img.shields.io/badge/BS%20Software%20Engineering-171020?style=flat&logo=book-open&logoColor=F0E5FF" alt="BS Software Engineering"/>
-</p>
-
-<p align="center">
-  <b>BS Software Engineering</b><br/>
-  3rd Semester 🏛️
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6B3FF&height=3&section=header" width="85%" alt="Lavender Divider"/>
-</p>
-
-## 💼 Currently
-
-- 💻 Working alongside my studies.
-- 🌐 Improving my frontend development skills.
-- 🎨 Exploring UI/UX and better web experiences.
-- 🚀 Building projects and learning new technologies.
-- 🌱 Exploring the MERN stack and modern JavaScript development.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6B3FF&height=3&section=header" width="85%" alt="Lavender Divider"/>
-</p>
-
-## 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=zainab-naeem-20&show_icons=true&theme=dark&hide_border=true&title_color=D6B3FF&icon_color=D6B3FF&text_color=F0E5FF&bg_color=171020" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zainab-naeem-20&layout=compact&theme=dark&hide_border=true&title_color=D6B3FF&text_color=F0E5FF&bg_color=171020" alt="Top Languages" width="48%"/>
-</p>
-
-<!-- CONTRIBUTION SNAKE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zainab-naeem-20/zainab-naeem-20/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6B3FF&height=3&section=header" width="85%" alt="Lavender Divider"/>
-</p>
+---
 
 ## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zainab-naeem-1ab38a312/">
-    <img src="https://img.shields.io/badge/LinkedIn-171020?style=flat&logo=linkedin&logoColor=D6B3FF" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-3A2938?style=for-the-badge&logo=linkedin&logoColor=E8C8D5" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:zainabnaeem405@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-171020?style=flat&logo=gmail&logoColor=F0E5FF" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-3A2938?style=for-the-badge&logo=gmail&logoColor=E8C8D5" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/zainab-naeem-20.svg?label=Profile%20Views&color=171020&logo=github" alt="Profile Views"/>
+  Feel free to reach out for collaboration, ideas, or a friendly tech discussion.
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=D6B3FF&height=3&section=header" width="85%" alt="Lavender Divider"/>
-</p>
-
-<h3 align="center">✨ Keep Learning · Keep Building · Keep Growing ✨</h3>
-
-<p align="center">
-  <b>Thanks for visiting my profile! 💜</b>
-</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6B3FF,50:8B5CF6,100:171020&height=140&section=footer&reversal=true" width="100%" alt="Purple Lavender Footer"/>
+
+*Keep Learning · Keep Building · Keep Growing* 🌷
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8C8D5,45:C99AAF,75:8B647A,100:241A29&height=110&section=footer" width="100%" alt="Soft Mauve Footer"/>
+
 </div>
+
